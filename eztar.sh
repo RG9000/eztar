@@ -24,8 +24,6 @@ else
     today=$selected_date   
 fi
 
-today=$(date '+%Y%m%d')
-
 # Display the menu using select
 PS3='Please enter your choice: '
 while true; do
