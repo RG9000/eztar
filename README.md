@@ -12,5 +12,7 @@ Edit the config.sh file to add log files to be tracked by the application
 ```
 
 Increment the value in the left most value.
+
 In the middle value, put a human readable name for the log.
+
 Then enter the log's file path. Use DATE to denote a date in the format YYYYMMDD.
